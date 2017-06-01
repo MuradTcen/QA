@@ -13,6 +13,10 @@ def my_sort_v1(slist):
                 was_swap = True
     return slist
 
+# print u'dff'
+# print('dff')
+# u'(.*)'
+# print('$1')
 
 def my_sort_v2(slist):
     if len(slist) <= 1:
